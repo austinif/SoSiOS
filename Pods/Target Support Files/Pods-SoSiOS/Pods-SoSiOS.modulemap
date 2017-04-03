@@ -1,0 +1,6 @@
+framework module Pods_SoSiOS {
+  umbrella header "Pods-SoSiOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
